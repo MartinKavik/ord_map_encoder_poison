@@ -17,13 +17,13 @@ defmodule OrdMapEncoderPoison.MixProject do
         main: "ord_map_encoder_poison",
         extra_section: "GUIDES",
         extras: [
-          "README.md": [filename: "ord_map_encoder_poison", title: "OrdMap Poison encoder"]
+          "README.md": [filename: "ord_map_encoder_poison", title: "OrdMap encoder for Poison"]
         ]
       ],
 
       # Package
       # build: mix compile && mix hex.audit && mix hex.build
-      description: "Poison encoder for OrdMap",
+      description: "OrdMap encoder for Poison",
       package: [
         maintainers: ["Martin Kavik"],
         licenses: ["MIT"],

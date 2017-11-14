@@ -1,4 +1,4 @@
-# [Poison](https://github.com/devinus/poison) encoder for [OrdMap](https://github.com/MartinKavik/ord_map)
+# [OrdMap](https://github.com/MartinKavik/ord_map) encoder for [Poison](https://github.com/devinus/poison)
 
 [![Hex.pm](https://img.shields.io/hexpm/v/ord_map_encoder_poison.svg?style=flat-square)](https://hex.pm/packages/ord_map_encoder_poison)
 
